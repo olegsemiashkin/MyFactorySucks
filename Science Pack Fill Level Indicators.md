@@ -33,6 +33,8 @@ This allows players to monitor science pack stock levels at a glance, without op
 3. Configure lamp conditions to match your fill-level preferences.  
 4. Adjust filters for red or green science, or any other item.
 
+## 📸 Preview
+
 ![Preview](https://i.imgur.com/m9uKq1S.png)
 
    
