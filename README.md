@@ -6,7 +6,7 @@ Hey there! I'm a huge **Factorio** fan, and here I share my blueprints for the g
 If you enjoy building absolutely pointless and weird contraptions — welcome! :)
 
 ## How to Use
-1. Download the blueprint file.
+1. Copy the blueprint code.
 2. Import it into your **Factorio** game.
 3. Enjoy the mess you've created, and laugh when your factory inevitably breaks down.
 
