@@ -1,6 +1,6 @@
 # 🚨 Train Gate Siren
 
-[Blueprint on FactorioPrints](https://factorioprints.com/view/-OQ-G6KwzfAPI7D0K3O4)
+🔗 [Blueprint on FactorioPrints](https://factorioprints.com/view/-OQ-G6KwzfAPI7D0K3O4)
 
 Triggers a siren when a train enters a gate section.  
 Useful for warning systems, immersive train crossings, or automatic barriers.
